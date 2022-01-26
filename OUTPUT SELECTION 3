@@ -1,11 +1,11 @@
 ------------------------Welcome to the MEDICAL UUM------------------------
 -------------------------WE SHARE WE CARE WE LOVE-------------------------
 Patient 1
-Name : LILI BINTI AHMAD
-Age : 12
-Gender : FEMALE
-Personal e-mail : liliana@yahoo.com
-Phone number : 01922387676
+Name : Jean Kirstein
+Age : 40
+Gender : MALE
+Personal e-mail : ackerman@yahoo.com
+Phone number : 01123343434
 Please take note on the hours charges and the selection of the services provided
 ===============================================================
 SERVICES          | PER APPOINTMENT (RM)   |  SELECTION NEEDED |
@@ -17,26 +17,40 @@ SERVICES          | PER APPOINTMENT (RM)   |  SELECTION NEEDED |
 = ANTIBIOTICS     |          8             |         -         |                                                        
 ===============================================================
 Please select which treatment is needed = 
-2
+3
+--------------------------------------------------------------------------------------------------------------------------------------------
+These are the charts of the body mass index you have
+If your BMI is less than 18.5 : UNDERWEIGHT 
+If your BMI is more than equal 18.5 and less than 24.9 : NORMAL 
+If your BMI is less than 30  : OVERWEIGHT 
+If your BMI is more than 30 : OBESE 
+
+Enter weight in Kilogram: 60
+Enter your height in Meter: 1.55
+The BMI for this patient is : 24.97 
+--------------------------------------------------------------------------------------------------------------------------------------------
+Enter the kcall intake for a month in each line as in weeks (4 weeks) : 
+12000
+15000
+13442
+12332
+The sum of kcall 52774
+The average of kcall is 26387
 --------------------------------------------------------------------------------------------------------------------------------------------
 Details that must be filled by the doctors below
-Blood Type : A
+Blood Type : B
 Condition of heart rate : NORMAL
 X-ray details : NORMAL
-Temperature : 40
-Insert the INTAKE medication needed by the patients below
-Packs of panadol : 2
-Packs needed of antibiotics : 2
-
-
+Temperature : 37
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-Do you have UUMONETOUCH APPLICATION for the payment?Please enter 1 for yes and 2 for no : 2
-The payment will deducted on your card/cash 
-Enter how much money to pay : 
-80
-Your total for medical check-up for today : RM 41.00 
+Do you have UUMONETOUCH APPLICATION for the payment?Please enter 1 for yes and 2 for no : 1
+You will get a 50% off with UUMONETOUCH : 
+Please enter your UUMONETOUCH balance : 
+90
+Your total for medical check-up for today : RM 37.50 
 
-Balance of your payment : RM 39.00 
+Balance of your payment : RM 52.50 
+
 
